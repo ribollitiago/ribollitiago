@@ -14,12 +14,10 @@ Tenho 20 anos e moro em Salto-SP. Possuo uma experiência sólida em desenvolvim
 </code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></code>
 </code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mobx/mobx-plain.svg" width="40" height="40"/> 
 
-</br>
-<div display="inline-block">
- <p align="left">🤿 Atualmente trabalho na <a href="https://tmdfriction.com/">TMD Friction</a>;</p>
- <p align="left">💻 Atualmente cursando Ciências da Computação no 4° Semestre;</p>
- <p align="left">📚 Tenho tfeito alguns projetos e estudado Flutter e Firebase diariamente;</p>
-</div>
+### Sobre mim:
+- Atualmente, trabalho na [TMD Friction](https://tmdfriction.com/)
+- Cursando Ciências da Computação no 4º Semestre
+- Estudando Flutter e Firebase 
 
 </br>
 
