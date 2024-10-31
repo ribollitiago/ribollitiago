@@ -20,10 +20,10 @@ Tenho 20 anos e moro em Salto-SP. Possuo uma experiência sólida em desenvolvim
 - Estudando Flutter e Firebase 
 
 </br>
-
-<a href="https://www.instagram.com/rlli.tg/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://www.linkedin.com/in/tiago-ribolli-blasquez-060810244/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="mailto:ribollitiago@gmail.com" target="_blank"><img align="left" alt="Gmail" width="22px" src="https://github.com/ribollitiago/ribollitiago/blob/main/gmail-svgrepo-com%20(3).svg" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/tiago-ribolli-blasquez-060810244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:ribollitiago@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 ##
 <p align="center">
