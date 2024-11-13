@@ -29,6 +29,6 @@ Tenho 20 anos e moro em Salto-SP. Possuo uma experiência sólida em desenvolvim
 <p align="center">
 <div>
 <a href="https://github.com/ribollitiago">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribollitiago&layout=compact&langs_count=7&theme=algolia"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ribollitiago&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribollitiago&layout=compact&langs_count=7&theme=ocean_dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ribollitiago&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
 </div>
