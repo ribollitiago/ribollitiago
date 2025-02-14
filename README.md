@@ -16,7 +16,7 @@ Tenho 20 anos e moro em Salto-SP. Possuo uma experiência sólida em desenvolvim
 
 ### Sobre mim:
 - Atualmente, trabalho na [TMD Friction](https://tmdfriction.com/)
-- Cursando Ciências da Computação no 4º Semestre
+- Cursando Ciências da Computação no 5º Semestre
 - Estudando Angular, Flutter e Firebase 
 
 </br>
