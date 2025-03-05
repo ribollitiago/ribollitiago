@@ -5,7 +5,8 @@
 Tenho 20 anos e moro em Salto-SP. Possuo uma experiência sólida em desenvolvimento de software, que venho estudando com projetos pessoais e trabalhando com freelances.
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/></code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="35" height="35"/></code>
+</code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="45" height="45"/></code>
 </code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/></code>
 </code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/></code>
 </code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/></code>
