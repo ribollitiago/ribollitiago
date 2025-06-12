@@ -13,7 +13,6 @@ Tenho 20 anos e moro em Salto-SP. Possuo uma experiência sólida em desenvolvim
 </code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40"/></code>
 </code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/></code>
 </code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></code>
-</code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mobx/mobx-plain.svg" width="40" height="40"/> 
 
 ### Sobre mim:
 - Atualmente, trabalho na [TMD Friction](https://tmdfriction.com/)
