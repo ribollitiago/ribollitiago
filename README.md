@@ -24,11 +24,3 @@ Tenho 21 anos e moro em Salto-SP. Possuo uma experiência sólida em desenvolvim
   <a href="https://www.linkedin.com/in/tiago-ribolli-blasquez-060810244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:ribollitiago@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-##
-<p align="center">
-<div>
-<a href="https://github.com/ribollitiago">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribollitiago&layout=compact&langs_count=7&theme=ocean_dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ribollitiago&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-</div>
