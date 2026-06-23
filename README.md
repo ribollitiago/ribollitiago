@@ -36,7 +36,7 @@ Tenho 21 anos e moro em Salto-SP. Possuo uma experiência sólida em desenvolvim
 
 </div>
 
-**Também trabalho com:** `Progress ABL` • `Datasul` • `Fluig` • `TOTVS`
+**Também trabalho com:** `Progress 4GL` • `Datasul` • `Fluig` • `TOTVS`
 
 ---
 
