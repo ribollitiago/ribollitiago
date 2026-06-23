@@ -52,8 +52,8 @@ Tenho 21 anos e moro em Salto-SP. Possuo uma experiência sólida em desenvolvim
 ### 💼 Sobre mim:
 
 - 🏢 Atualmente trabalho na [TMD Friction](https://tmdfriction.com/)
-- 🎓 Cursando Ciências da Computação no 7º Semestre
-- 📚 Estudando: **Angular**, **Node.js**, **Nest.js**, **Docker**, **Progress ABL**, **Datasul**, **Fluig** e **PostgreSQL**
+- 🎓 Cursando Ciências da Computação no 8º Semestre
+- 📚 Estudando: **Angular**, **Node.js**, **Nest.js**, **Docker**, **Progress 4GL**, **Datasul**, **Fluig** e **PostgreSQL**
 
 ---
 
