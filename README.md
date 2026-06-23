@@ -40,12 +40,15 @@ Tenho 21 anos e moro em Salto-SP. Possuo uma experiência sólida em desenvolvim
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats-one-delta-47.vercel.app/api?username=ribollitiago&show_icons=true&count_private=true&theme=tokyonight" height="180em" />
-</div>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-one-delta-47.vercel.app/api/top-langs/?username=ribollitiago&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-one-delta-47.vercel.app/api?username=ribollitiago&show_icons=true&count_private=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-one-delta-47.vercel.app/api/top-langs/?username=ribollitiago&layout=compact&langs_count=7&theme=tokyonight" />
+
+  <a href="https://github.com/dinographic/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats-five-azure.vercel.app?user=ribollitiago&theme=tokyonight&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
