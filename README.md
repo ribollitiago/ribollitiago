@@ -2,7 +2,7 @@
 
 ### Bem-vindo ao meu perfil GitHub!
 
-Tenho 21 anos e moro em Salto-SP. Possuo uma experiência sólida em desenvolvimento de software, que venho estudando com projetos pessoais e trabalhando com freelances.
+Tenho 22 anos e moro em Salto-SP. Possuo uma experiência sólida em desenvolvimento de software, que venho estudando com projetos pessoais e trabalhando com freelances.
 
 ---
 
