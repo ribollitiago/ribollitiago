@@ -34,6 +34,15 @@ Tenho 21 anos e moro em Salto-SP. Possuo uma experiência sólida em desenvolvim
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 
+  <!-- Android -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" height="40" alt="Android"/>
+
+  <!-- Kotlin -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/>
+
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+
 </div>
 
 **Também trabalho com:** `Progress 4GL` • `Datasul` • `Fluig` • `TOTVS`
