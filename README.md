@@ -1,8 +1,8 @@
-# Hi, I'm Tiago Ribolli ðŸ‘‹
+# Hi, I'm Tiago Ribolli 👋
 
-**Software Developer Â· Android Â· Kotlin Â· Clean Architecture**
+**Software Developer · Android · Kotlin · Clean Architecture**
 
-ðŸ“ Salto, SP, Brazil &nbsp;|&nbsp; ðŸ“§ ribollitiago@gmail.com &nbsp;|&nbsp; ðŸ“± +55 (19) 99835-8209
+📍 Salto, SP, Brazil &nbsp;|&nbsp; 📧 ribollitiago@gmail.com &nbsp;|&nbsp; 📱 +55 (19) 99835-8209
 
 <div align="left">
   <a href="https://www.linkedin.com/in/tiago-ribolli-blasquez-060810244/" target="_blank">
@@ -15,9 +15,9 @@
 
 ---
 
-## ðŸ¤– About Me
+## 🤖 About Me
 
-Native Android Developer focused on building clean, testable, and scalable mobile applications. I apply **SOLID principles**, **Clean Architecture**, and **MVVM** in every project â€” from domain layer to UI.
+Native Android Developer focused on building clean, testable, and scalable mobile applications. I apply **SOLID principles**, **Clean Architecture**, and **MVVM** in every project — from domain layer to UI.
 
 Currently working as a **Software Developer Intern at TMD Friction**, delivering end-to-end enterprise solutions within the TOTVS/Fluig ecosystem. I take full ownership of my deliveries: scoping, architecture decisions, code reviews, testing, and production deployment.
 
@@ -25,9 +25,9 @@ Pursuing a **Bachelor's in Computer Science** (CEUNSP, expected 2026).
 
 ---
 
-## ðŸ“± Android & Mobile Projects
+## 📱 Android & Mobile Projects
 
-### ðŸ¦ [Monexi](https://github.com/ribollitiago/monexi) â€” Native Android App (Kotlin)
+### 🏦 [Monexi](https://github.com/ribollitiago/monexi) — Native Android App (Kotlin)
 > Personal finance manager built with **Clean Architecture + MVVM**
 
 - **StateFlow** + **Coroutines** for reactive, lifecycle-aware UI
@@ -36,35 +36,35 @@ Pursuing a **Bachelor's in Computer Science** (CEUNSP, expected 2026).
 - **JUnit + MockK** unit tests covering domain and ViewModel layers
 - REST API client architecture (in progress)
 
-### ðŸ“± [App Club](https://github.com/ribollitiago/app-club) â€” Flutter/Dart
+### 📲 [App Club](https://github.com/ribollitiago/app-club) — Flutter/Dart
 > Cross-platform mobile app demonstrating responsive layouts and state management
 
 ---
 
-## ðŸ—ï¸ Architecture & Design Patterns
+## 🏗️ Architecture & Design Patterns
 
 ```
-Clean Architecture  Â·  MVVM  Â·  SOLID Principles  Â·  Design Patterns
-StateFlow  Â·  Coroutines  Â·  Flow  Â·  Room  Â·  Firebase Auth
-JUnit  Â·  MockK  Â·  Dependency Injection  Â·  REST APIs
+Clean Architecture  ·  MVVM  ·  SOLID Principles  ·  Design Patterns
+StateFlow  ·  Coroutines  ·  Flow  ·  Room  ·  Firebase Auth
+JUnit  ·  MockK  ·  Dependency Injection  ·  REST APIs
 ```
 
 ---
 
-## ðŸ’¼ Professional Experience
+## 💼 Professional Experience
 
-**TMD Friction** â€” Software Developer Intern *(Jul 2025 â€“ Present)*
-- Delivered 10 end-to-end enterprise projects, with full ownership of 5 (architecture â†’ production)
-- Built REST & SOAP API bridges connecting Fluig BPM, ClickUp, and ERP systems â€” 100% request traceability
+**TMD Friction** — Software Developer Intern *(Jul 2025 – Present)*
+- Delivered 10 end-to-end enterprise projects, with full ownership of 5 (architecture → production)
+- Built REST & SOAP API bridges connecting Fluig BPM, ClickUp, and ERP systems — 100% request traceability
 - Defined development standards, conducted code reviews, automated 10+ reporting services
 - Leveraged AI-assisted development tools daily for code quality and diagnostics
 
-**TMD Friction** â€” IT Support Apprentice *(Aug 2024 â€“ Jul 2025)*
+**TMD Friction** — IT Support Apprentice *(Aug 2024 – Jul 2025)*
 - Led factory-wide infrastructure renewal: 220+ endpoints deployed in 6 months
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
@@ -106,11 +106,11 @@ JUnit  Â·  MockK  Â·  Dependency Injection  Â·  REST APIs
 
 </div>
 
-**Also work with:** `Progress ABL (4GL)` Â· `Datasul` Â· `Fluig` Â· `TOTVS` Â· `Postman` Â· `Linux`
+**Also work with:** `Progress ABL (4GL)` · `Datasul` · `Fluig` · `TOTVS` · `Postman` · `Linux`
 
 ---
 
-## ðŸ“Š GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-one-delta-47.vercel.app/api?username=ribollitiago&show_icons=true&count_private=true&theme=tokyonight" />
@@ -119,6 +119,6 @@ JUnit  Â·  MockK  Â·  Dependency Injection  Â·  REST APIs
 
 ---
 
-## ðŸŽ“ Education
+## 🎓 Education
 
-**Bachelor's in Computer Science** â€” CEUNSP *(2023 â€“ 2026, Expected)*
+**Bachelor's in Computer Science** — CEUNSP *(2023 – 2026, Expected)*
